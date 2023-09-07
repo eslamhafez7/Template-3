@@ -839,6 +839,7 @@ ul {
     left: 0;
     top: 0;
     height: 100%;
+    transition: 0.3s;
 }
 /* End Our Skills */
 /* Start Work Steps */
@@ -943,7 +944,7 @@ ul {
     border: 1px solid #D4D4D4;
     border-radius: 6px;
     text-align: center;
-    width: 75px;
+    width: 90px;
     transition: var(--main-transition);
 }
 .events .info .time .unit:hover, 
